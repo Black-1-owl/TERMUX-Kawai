@@ -23,3 +23,4 @@ cd TERMUX-Kawai
 chmod +x install.sh
 ./install.sh
 source ~/.bashrc
+touch ~/.hushlogin
