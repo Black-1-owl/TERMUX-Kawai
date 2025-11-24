@@ -1,2 +1,2 @@
-# TERMUX-Kawai
+# TERMUX-Kawaii
 Kawai
